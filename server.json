@@ -1,0 +1,6 @@
+{
+    "name":"json-flattener-example",
+    "app":{
+        "cfengine":"lucee@5"
+    }
+}
